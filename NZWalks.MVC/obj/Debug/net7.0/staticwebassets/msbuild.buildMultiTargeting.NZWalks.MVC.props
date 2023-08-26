@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NZWalks.MVC.props" />
+</Project>
